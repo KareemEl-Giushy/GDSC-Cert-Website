@@ -78,7 +78,7 @@
                         <div class="text-container">
                             <h1>TechDay 2021 GDSC MU</h1>
                             <p class="p-large">Thank You For Attending TechDay 2021,<br/> We Hope You Enjoyed It :)</p>
-                            <a class="btn-solid-lg page-scroll" href="#cert"><i class="fas fa-certificate"></i> Get Cert</a>
+                            <a class="btn-solid-lg" href="#cert"><i class="fas fa-certificate"></i> Get Cert</a>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                     <div class="col-lg-6 col-xl-7">
@@ -97,7 +97,7 @@
     <!-- end of header -->
 
     <!-- Newsletter -->
-    <div class="form">
+    <div class="form" id="cert">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
