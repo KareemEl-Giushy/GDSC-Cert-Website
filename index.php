@@ -97,7 +97,7 @@
     <!-- end of header -->
 
     <!-- Newsletter -->
-    <div class="form" id="cert">
+    <div class="form">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
